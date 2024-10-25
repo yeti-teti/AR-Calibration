@@ -1,0 +1,11 @@
+Camera matrix:
+2836.29 0 678.176 
+0 2756.2 -69.3719 
+0 0 1 
+Distortion coefficients:
+0.130029 
+-1.16806 
+-0.00198507 
+-0.0186432 
+2.48141 
+Reprojection error:2.06456
